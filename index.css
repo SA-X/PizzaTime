@@ -1,0 +1,16 @@
+#head{
+    position: fixed;
+    width: 100%;
+}
+
+#content{
+    padding-top: 4.5em;
+}
+
+.space{
+    width: 80em;
+}
+
+.map{
+    margin-top: 10em;
+}

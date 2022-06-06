@@ -1,0 +1,39 @@
+.space{
+    width: 80em;
+}
+
+body {
+    background-image: url(pizza.jpg);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin: 0;
+    font-family: monospace;
+}
+
+form {
+    width: 400px;
+    margin: auto;
+    background: rgba(200, 214, 223, 0.4);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+h2 {
+color: #fff;
+text-align: center;
+margin: 0;
+font-size: 30px;
+margin-bottom: 20px;
+}
+
+input, textarea {
+    margin-bottom: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 17px;
+}
+
+
+ 
